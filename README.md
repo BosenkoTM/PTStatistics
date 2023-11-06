@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_01_Random%20events.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/PT_01_Random%20events.ipynb">
         <b>1. Случайные события</b></a></td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_02_Random%20values.%20Discrete%20random%20value.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/PT_02_Random%20values.%20Discrete%20random%20value.ipynb">
         <b>2. Случайные величины. Дискретная случайная величина</b></a></td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_03_Continuous%20random%20variable.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/PT_03_Continuous%20random%20variable.ipynb">
         <b>3. Случайные величины. Непрерывная случайная величина</b></a></td>
   </tr>
     <tr>
@@ -212,7 +212,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_04_System%20of%20two%20random%20variables.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/PT_04_System%20of%20two%20random%20variables.ipynb">
         <b>4. Система двух случайных величин</b></a></td>
   </tr>
   <tr>
@@ -256,7 +256,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_01_Sampling%20method.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_01_Sampling%20method.ipynb">
         <b>1. Выборочный метод</b></a></td>
   </tr>
   <tr>
@@ -301,7 +301,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_02_Point%20estimates.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_02_Point%20estimates.ipynb">
         <b>2. Точечные оценки параметров распределения</b></a></td>
   </tr>
   <tr>
@@ -367,7 +367,7 @@
 <table>
   <tr>
     <td colspan=2>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_03_Normal%20distribution.ipynb">
         <b>3. Нормальное распределение</b></a></td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@
 <table>
   <tr>
     <td colspan=2>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_04_Interval%20estimates.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_04_Interval%20estimates.ipynb">
         <b>4. Интервальные оценки параметров распределения</b></a></td>
   </tr>
   <tr>
@@ -451,7 +451,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_05_Statistical%20hypotheses.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_05_Statistical%20hypotheses.ipynb">
         <b>5. Статистические гипотезы. Гипотезы о генеральном распределении</b></a></td>
   </tr>
   <tr>
@@ -488,7 +488,7 @@
 <table>
   <tr>
     <td colspan=2>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_06_Statistical%20hypotheses.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_06_Statistical%20hypotheses.ipynb">
         <b>6. Статистические гипотезы. Гипотезы о двух генеральных распределениях</b></a></td>
   </tr>
   <tr>
@@ -520,7 +520,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_07_Distribution%20law.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_07_Distribution%20law.ipynb">
         <b>7. Гипотеза о законе распределения генеральной совокупности</b></a></td>
   </tr>
   <tr>
@@ -531,7 +531,7 @@
   <tr>
     <td rowspan=5><b>Предполагаемый закон распределения</b></td>
     <td>Графический способ</td>
-    <td><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">QQ-plot</a></td>
+    <td><a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_03_Normal%20distribution.ipynb">QQ-plot</a></td>
   </tr>
   <tr>
     <td>Аналитические признаки (для нормального распределения)</td>
@@ -553,7 +553,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Correlation%20analysis.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_08_Grouping%20data.%20Correlation%20analysis.ipynb">
         <b>8. Группировка данных. Корреляционный анализ</b></a></td>
   </tr>
   <tr>
@@ -618,7 +618,7 @@
 
 <table>
     <tr>
-        <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Analysis%20Of%20Variance.ipynb">
+        <td colspan=2><a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_09_Analysis%20Of%20Variance.ipynb">
         <b>9. Дисперсионный анализ </b></a></td>
     </tr>
     <tr>
@@ -647,7 +647,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Linear%20regression.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_10_Linear%20regression.ipynb">
         <b>10. Регрессионный анализ. Парная (однофакторная) линейная регрессия</b></a></td>
   </tr>
   <tr>
@@ -752,7 +752,7 @@
 <table>
   <tr>
     <td colspan=1>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_11_Nonlinear%20regression.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_11_Nonlinear%20regression.ipynb">
         <b>11. Регрессионный анализ. Нелинейная регрессия</b></a></td>
   </tr>
   <tr>
@@ -796,7 +796,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_13_MultipleRegressionModel.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_13_MultipleRegressionModel.ipynb">
         <b>13. Модель множественной регрессии</b></a></td>
   </tr>
   <tr>
@@ -883,7 +883,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_14_RegressionAnalysisInDS.ipynb">
+        <a href="https://github.com/BosenkoTM/PTStatistics/blob/main/St_14_RegressionAnalysisInDS.ipynb">
         <b>14. Регрессионный анализ в науке о данных</b></a></td>
   </tr>
   <tr>
